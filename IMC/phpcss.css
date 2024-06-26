@@ -1,0 +1,16 @@
+.back {
+    margin-top: 24%;
+    border:solid 1px ;
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: white;
+}
+body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToxLFfw09fnrlG4GHmmv8Gw437yXOkcuDTmA&s');
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
